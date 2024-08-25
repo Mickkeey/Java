@@ -1,0 +1,50 @@
+Array -->
+
+int[] numbers = new int[5];
+numbers[0] = 10;
+numbers[1] = 20;
+
+String -->
+
+String greeting = "Hello, World!";
+
+List -->
+
+List<String> names = new ArrayList<>();
+names.add("Alice");
+names.add("Bob");
+
+ArrayList -->
+
+ArrayList<String> fruits = new ArrayList<>();
+fruits.add("Apple");
+fruits.add("Banana");
+
+Set -->
+
+Set<String> uniqueNames = new HashSet<>();
+uniqueNames.add("Alice");
+uniqueNames.add("Bob");
+
+
+HashSet -->
+
+HashSet<Integer> numbers = new HashSet<>();
+numbers.add(1);
+numbers.add(2);
+
+
+Map -->
+
+Map<String, Integer> ages = new HashMap<>();
+ages.put("Alice", 25);
+ages.put("Bob", 30);
+
+
+HashMap -->
+
+HashMap<String, String> capitals = new HashMap<>();
+capitals.put("France", "Paris");
+capitals.put("Japan", "Tokyo");
+
+
